@@ -1,4 +1,4 @@
-9b018afd95c7c64b2df13792f0d4e3ab *DESCRIPTION
+695e428b0a4108598ffb22951ff652b6 *DESCRIPTION
 de65eebabc7230a8381bdee85d7915ec *NAMESPACE
 6b4023d02ca96b1e44e0bbeddb7ac266 *NEWS.md
 23c8c02f97b7ed8c2512be22c9d414d4 *R/Covariance_Matrix_Functions.R
@@ -17,14 +17,14 @@ a728a5e36ff14c07396ed48bb671a6bc *R/Kendler_functions.R
 1effd8e96c639d0f71b396db7d45a642 *R/Simulate_under_LTM.R
 5a5297aed350bf4c2b955246fb6c7694 *R/graph_to_trio.R
 9723b22e5cfdcf2066f2a65511d59e92 *R/internal_validating_fuctions.R
-3c624196df261b4edba7ea630e213c99 *README.md
+b679828055aece4554ce572bcd9bb579 *README.md
 1dda19015f0aa969acee990c150e3ac9 *build/partial.rdb
 2fcfd95491427ed16148dd8715a3f84b *build/vignette.rds
 cb548552153b748a52f450df4aac116c *inst/doc/LTFGRS_workflow_prediction.R
 b296fd1920243dc6a0c65e9397846601 *inst/doc/LTFGRS_workflow_prediction.Rmd
-c1068d67b36b4b1ea9d738955b10060a *inst/doc/LTFGRS_workflow_prediction.html
+ad782059667c4d53653fc49620acc36b *inst/doc/LTFGRS_workflow_prediction.html
 8829cb3b1363aebd87857acedd7645f1 *man/Gibbs_estimator.Rd
-963dce3f294fcb7eabe039ad61769968 *man/LTFGRS-package.Rd
+e73dbe8a94399d1461c09937f3753d87 *man/LTFGRS-package.Rd
 c68c141fadda6790762183ac5b231868 *man/PA_algorithm.Rd
 11a43ac6337376caabd902b0020380ca *man/attach_attributes.Rd
 334c65d039dbcfed9197095796b93f2f *man/censor_family_onsets.Rd
@@ -71,6 +71,6 @@ c0182cfbf4ab94fdf7d2b3984810bf81 *man/simulate_under_LTM_single.Rd
 897e2c2f7c0b8048ccdc86c4d5dd26ff *src/gibbs-sampler.cpp
 b10e129655a6ff82d80ad3193d782303 *tests/testthat.R
 f4078650b352578beb86065c63bdafcc *tests/testthat/test-Covariance-Matrix-Functions.R
-e0bc427e4575d5ba2d152dbdda375cea *tests/testthat/test-Gibbs-sampler.R
+5c29f4268dfcad4a371ad9703992068b *tests/testthat/test-Gibbs-sampler.R
 c69ec7b0a1af43ca73fa2b9f38b2b506 *tests/testthat/test-Helper-Functions.R
 b296fd1920243dc6a0c65e9397846601 *vignettes/LTFGRS_workflow_prediction.Rmd
